@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![ihatelua's GitHub stats](https://github-readme-stats.vercel.app/api?username=ihatelua)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ihatelua&langs_count=8)](https://github.com/ihatelua/github-readme-stats)<br><br>
+![ihatelua's GitHub stats](https://github-readme-stats.vercel.app/api?username=ihatelua&show_icons=true&count_private=true&include_all_commits=true)

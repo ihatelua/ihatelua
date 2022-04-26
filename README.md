@@ -1,4 +1,5 @@
 ### Hi there 👋
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fihatelua%2Fhit-counter&count_bg=%235DAA93&title_bg=%23192C2D&icon=visualstudio.svg&icon_color=%23008ED5&title=&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <!--
 **ihatelua/ihatelua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

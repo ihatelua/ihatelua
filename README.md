@@ -1,6 +1,10 @@
 ### Hi there 👋
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fihatelua%2Fhit-counter&count_bg=%235DAA93&title_bg=%23192C2D&icon=visualstudio.svg&icon_color=%23008ED5&title=&edge_flat=false)](https://hits.seeyoufarm.com)
 
+
+![flux10n card name](https://cardivo.vercel.app/api?name=ihatelua&description=I%20gave%20up%20on%20lua%20language...%20I%20became%20a%20front-end%20developer.&image=https://avatars.githubusercontent.com/u/54477695&backgroundColor=%23ecf0f1&github=ihatelua&pattern=leaf&colorPattern=%23eaeaea)
+
+
 <!--
 **ihatelua/ihatelua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
